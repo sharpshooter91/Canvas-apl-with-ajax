@@ -1,2 +1,2 @@
-# Canvas-apl-with-ajax
-My ajax project
+# Simple-drawing-apl
+My JQuery project
